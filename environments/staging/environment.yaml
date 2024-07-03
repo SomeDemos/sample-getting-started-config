@@ -12,5 +12,5 @@ app:
     - name: testValue
       value: "testData"
   variables:
-    - io_openliberty_sample_testConfigOverwrite
+    - name: io_openliberty_sample_testConfigOverwrite
       secret: io_openliberty_sample_testConfigOverwrite
